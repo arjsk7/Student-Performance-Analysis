@@ -1,6 +1,7 @@
 # Student-Performance-Analysis
 Hi 
 
+***for visualisations, I have used seaborn and matplotlib libraries and pandas for data cleaning, please install them if you are going to run this code.
 
 This is a Student Performance analysis CLI tool I have created that class teachers can use to:
 
